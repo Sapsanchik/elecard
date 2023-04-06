@@ -3,6 +3,8 @@ import Auth from './pages/Auth';
 import ItemList from './pages/ItemList';
 import TreeList from './pages/TreeList';
 import Layout from './Components/Layout';
+import { NotFound } from './pages/NotFound';
+
 
 function App() {
   return (
@@ -13,6 +15,7 @@ function App() {
             <Route path="/" element={<ItemList />} />
             <Route path="/tree" element={<TreeList />} />
             <Route path="/login" element={<Auth />} />
+            <Route path='*' element={<NotFound />} />
           </Route>
         </Routes>
       </main>

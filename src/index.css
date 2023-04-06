@@ -132,3 +132,7 @@ footer {
     flex-wrap: wrap ;
   }
 }
+
+.not {
+  height: 100vh;
+}

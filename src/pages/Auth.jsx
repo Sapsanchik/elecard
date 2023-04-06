@@ -1,5 +1,5 @@
 import { Button, Checkbox, Label, TextInput } from 'flowbite-react';
-import React, { useState } from 'react';
+import React from 'react';
 
 const Auth = (props) => {
   console.log(props);
