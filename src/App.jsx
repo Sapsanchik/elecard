@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <main>
-        <Routes basename="/elecard">
+        <Routes>
           <Route path='/' element={<Layout />}>
             <Route path="/" element={<ItemList />} />
             <Route path="/tree" element={<TreeList />} />
