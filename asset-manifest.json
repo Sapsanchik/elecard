@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/elecard/static/css/main.acaa8853.css",
-    "main.js": "/elecard/static/js/main.2e3ab204.js",
+    "main.js": "/elecard/static/js/main.df05c959.js",
     "index.html": "/elecard/index.html",
     "main.acaa8853.css.map": "/elecard/static/css/main.acaa8853.css.map",
-    "main.2e3ab204.js.map": "/elecard/static/js/main.2e3ab204.js.map"
+    "main.df05c959.js.map": "/elecard/static/js/main.df05c959.js.map"
   },
   "entrypoints": [
     "static/css/main.acaa8853.css",
-    "static/js/main.2e3ab204.js"
+    "static/js/main.df05c959.js"
   ]
 }
